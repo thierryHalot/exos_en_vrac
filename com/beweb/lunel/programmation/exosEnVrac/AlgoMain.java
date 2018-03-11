@@ -5,7 +5,9 @@
  */
 package beweb.lunel.programmation.exosEnVrac;
 
+
 import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice1;
+import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice2;
 
 /**
  *
@@ -19,6 +21,7 @@ public class AlgoMain {
     public static void main(String[] args) {
         
         Exercice1.launch();
+        Exercice2.launch();
         // TODO code application logic here
     }
     
