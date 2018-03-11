@@ -13,6 +13,7 @@ import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice4;
 import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice5;
 import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice6;
 import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice7;
+import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice8;
 
 /**
  *
@@ -25,13 +26,14 @@ public class AlgoMain {
      */
     public static void main(String[] args) {
         
-        Exercice1.launch();
-        Exercice2.launch();
-        Exercice3.launch();
-        Exercice4.launch();
-        Exercice5.launch();
-        Exercice6.launch();
-        Exercice7.launch();
+        Exercice1.launch();//execution de l'exercice 1
+        Exercice2.launch();//execution de l'exercice 2
+        Exercice3.launch();//execution de l'exercice 3
+        Exercice4.launch();//execution de l'exercice 4
+        Exercice5.launch();//execution de l'exercice 5
+        Exercice6.launch();//execution de l'exercice 6
+        Exercice7.launch();//execution de l'exercice 7
+        Exercice8.launch();//execution de l'exercice 8
         
         // TODO code application logic here
     }
