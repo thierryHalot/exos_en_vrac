@@ -12,6 +12,7 @@ import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice3;
 import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice4;
 import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice5;
 import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice6;
+import com.beweb.lunel.programmation.exosEnVrac.algo.Exercice7;
 
 /**
  *
@@ -30,6 +31,7 @@ public class AlgoMain {
         Exercice4.launch();
         Exercice5.launch();
         Exercice6.launch();
+        Exercice7.launch();
         
         // TODO code application logic here
     }
