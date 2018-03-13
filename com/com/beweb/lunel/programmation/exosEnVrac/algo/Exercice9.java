@@ -11,8 +11,9 @@ package com.beweb.lunel.programmation.exosEnVrac.algo;
  */
 public class Exercice9 {
     public static void launch(){
-        
+        // j'initialise une variable a comme l'exercice 8    
         int a = 243;
+        // j'initialise une autre
         int b = 243;
         int i = 0;
         int c = 0;

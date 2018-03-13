@@ -60,7 +60,7 @@ public class Exercice8 {
             * aura retourner,c'est pas un multiple de 10
             */
            i= a%10;
-           
+           a--;
            if(i==0){
                
                System.out.println("c'est un multiple de 10 aussi");
